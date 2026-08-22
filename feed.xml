@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>大明开国录</title>
-    <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/feed.xml</link>
+    <link>https://DEMON987654321.github.io/daming/feed.xml</link>
     <language>zh-cn</language>
     <description>从朱元璋开国到弘治中兴，大明王朝三百年通史。六季三十集，讲透帝国兴衰的制度密码与历史逻辑：废丞相、设内阁、迁都北京、郑和下西洋——硬核史实与通俗叙事的结合。</description>
     <itunes:subtitle>从朱元璋开国到弘治中兴，大明王朝三百年通史。六季三十集，讲透帝国兴衰的制度密码与历史逻辑：废丞相、设内阁、迁都北京、郑和下西洋——硬核史实与通俗叙事的结合。</itunes:subtitle>
     <itunes:author>大王</itunes:author>
     <itunes:summary>从朱元璋开国到弘治中兴，大明王朝三百年通史。六季三十集，讲透帝国兴衰的制度密码与历史逻辑：废丞相、设内阁、迁都北京、郑和下西洋——硬核史实与通俗叙事的结合。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://raw.githubusercontent.com/DEMON987654321/daming/main/cover.png" />
+    <itunes:image href="https://DEMON987654321.github.io/daming/cover.png" />
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="History" />
     </itunes:category>
@@ -18,15 +18,15 @@
       <itunes:email>644616136@qq.com</itunes:email>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
-    <itunes:new-feed-url>https://raw.githubusercontent.com/DEMON987654321/daming/main/feed.xml</itunes:new-feed-url>
+    <itunes:new-feed-url>https://DEMON987654321.github.io/daming/feed.xml</itunes:new-feed-url>
     <item>
       <title>S01M01 乱世孤儿</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M01.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M01.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S01M01.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S01M01.mp3</guid>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
       <description>S01M01 乱世孤儿。朋友们，欢迎来到《大明开国录》！  今天我们要用一个更长的时间跨度，走进朱元璋生命中最灰暗也最关键的两个阶段——凤阳的苦难童年和皇觉寺的孤僧岁月。一个出生在安徽最穷农村的佃农之子，如何在十六岁那年眼睁睁看着亲人一个接一个死去？一个连棺材都买不起的少年，如何被命运推进了皇觉寺的大门？而在那座香烟缭绕的寺庙里，他又如何从敲钟扫地的小和尚，一步步走上了那条通往天下的不归路？  这个故事从1328年的那个</description>
       <content:encoded>S01M01 乱世孤儿。朋友们，欢迎来到《大明开国录》！  今天我们要用一个更长的时间跨度，走进朱元璋生命中最灰暗也最关键的两个阶段——凤阳的苦难童年和皇觉寺的孤僧岁月。一个出生在安徽最穷农村的佃农之子，如何在十六岁那年眼睁睁看着亲人一个接一个死去？一个连棺材都买不起的少年，如何被命运推进了皇觉寺的大门？而在那座香烟缭绕的寺庙里，他又如何从敲钟扫地的小和尚，一步步走上了那条通往天下的不归路？  这个故事从1328年的那个</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M01.mp3" length="63560000" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S01M01.mp3" length="63560000" type="audio/mpeg" />
       <itunes:title>S01M01 乱世孤儿</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
@@ -35,12 +35,12 @@
     </item>
     <item>
       <title>S01M02 群雄逐鹿</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M02.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M02.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S01M02.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S01M02.mp3</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
       <description>S01M02 群雄逐鹿。朋友们，欢迎来到《大明开国录》！  上一集我们讲到朱元璋带着二十四个人离开濠州，智取驴牌寨、招兵买马，在滁州建立了自己人生中第一个真正的根据地。但滁州不是终点，天下才是他的目标。  今天这一集分量十足——我们要连续讲三场波澜壮阔的历史大戏。首先是红巾军风暴席卷天下，元朝这座摇摇欲坠的大厦轰然崩塌；然后是朱元璋一生中最强对手陈友谅的登场和毁灭——那个渔夫出身的枭雄，拥有天下无敌的水师，却最终在鄱阳湖</description>
       <content:encoded>S01M02 群雄逐鹿。朋友们，欢迎来到《大明开国录》！  上一集我们讲到朱元璋带着二十四个人离开濠州，智取驴牌寨、招兵买马，在滁州建立了自己人生中第一个真正的根据地。但滁州不是终点，天下才是他的目标。  今天这一集分量十足——我们要连续讲三场波澜壮阔的历史大戏。首先是红巾军风暴席卷天下，元朝这座摇摇欲坠的大厦轰然崩塌；然后是朱元璋一生中最强对手陈友谅的登场和毁灭——那个渔夫出身的枭雄，拥有天下无敌的水师，却最终在鄱阳湖</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M02.mp3" length="70170080" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S01M02.mp3" length="70170080" type="audio/mpeg" />
       <itunes:title>S01M02 群雄逐鹿</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
@@ -49,12 +49,12 @@
     </item>
     <item>
       <title>S01M03 开国定鼎</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M03.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M03.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S01M03.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S01M03.mp3</guid>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
       <description>S01M03 开国定鼎。朋友们，欢迎来到《大明开国录》！  打完陈友谅、收服张士诚之后，朱元璋已是整个中国南方无可争议的主人。从凤阳到南京，从二十四人的小队到数十万大军，这条路他走了将近二十年。但他心里清楚——只要北方还在蒙古人手里，他的天下就不算完整。  今天这一集分为上下两部分。上半部分，我们讲述朱元璋一生中最辉煌的军事行动——北伐中原。二十五万大军如何在不到一年的时间里，从南京打到北京，终结了统治中国近百年的蒙古帝</description>
       <content:encoded>S01M03 开国定鼎。朋友们，欢迎来到《大明开国录》！  打完陈友谅、收服张士诚之后，朱元璋已是整个中国南方无可争议的主人。从凤阳到南京，从二十四人的小队到数十万大军，这条路他走了将近二十年。但他心里清楚——只要北方还在蒙古人手里，他的天下就不算完整。  今天这一集分为上下两部分。上半部分，我们讲述朱元璋一生中最辉煌的军事行动——北伐中原。二十五万大军如何在不到一年的时间里，从南京打到北京，终结了统治中国近百年的蒙古帝</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M03.mp3" length="66526720" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S01M03.mp3" length="66526720" type="audio/mpeg" />
       <itunes:title>S01M03 开国定鼎</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
@@ -63,12 +63,12 @@
     </item>
     <item>
       <title>S01M04 帝王画像</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M04.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M04.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S01M04.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S01M04.mp3</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
       <description>S01M04 帝王画像。朋友们，欢迎来到《大明开国录》！  今天我们要聊一个非常特别的话题——朱元璋到底长什么样？这个问题听起来像是八卦，但它实际上触及了中国历史研究中一个非常深刻的问题：史料和画像到底怎么"记录"历史？  在这一集里，我们会看到两个截然不同的朱元璋同时存在于历史记载中——一个是天庭饱满、地阁方圆的帝王之相，另一个是下巴突出、满脸麻子的"外星人"。同一个人的两种画像，差距大到让你怀疑人生。是有人故意美化？</description>
       <content:encoded>S01M04 帝王画像。朋友们，欢迎来到《大明开国录》！  今天我们要聊一个非常特别的话题——朱元璋到底长什么样？这个问题听起来像是八卦，但它实际上触及了中国历史研究中一个非常深刻的问题：史料和画像到底怎么"记录"历史？  在这一集里，我们会看到两个截然不同的朱元璋同时存在于历史记载中——一个是天庭饱满、地阁方圆的帝王之相，另一个是下巴突出、满脸麻子的"外星人"。同一个人的两种画像，差距大到让你怀疑人生。是有人故意美化？</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M04.mp3" length="65853119" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S01M04.mp3" length="65853119" type="audio/mpeg" />
       <itunes:title>S01M04 帝王画像</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
@@ -77,12 +77,12 @@
     </item>
     <item>
       <title>S01M05 真相与阴影</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M05.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M05.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S01M05.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S01M05.mp3</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
       <description>S01M05 真相与阴影。朋友们，欢迎来到《大明开国录》第一季的大结局！  十二集的旅程，我们跟着朱元璋从凤阳的茅草屋出发，走过皇觉寺的钟声，穿越红巾军的硝烟，打过陈友谅的铁甲舰队，围过张士诚的苏州孤城，最后站在南京城楼上北望中原——这个乞丐变成皇帝的故事，到了该做总结的时候了。  但这一集不只是一个简单的总结。因为当我们读完所有的史料，一个最根本的问题浮出了水面：关于朱元璋的记载，正史和野史为什么会有那么多相互矛盾的地方</description>
       <content:encoded>S01M05 真相与阴影。朋友们，欢迎来到《大明开国录》第一季的大结局！  十二集的旅程，我们跟着朱元璋从凤阳的茅草屋出发，走过皇觉寺的钟声，穿越红巾军的硝烟，打过陈友谅的铁甲舰队，围过张士诚的苏州孤城，最后站在南京城楼上北望中原——这个乞丐变成皇帝的故事，到了该做总结的时候了。  但这一集不只是一个简单的总结。因为当我们读完所有的史料，一个最根本的问题浮出了水面：关于朱元璋的记载，正史和野史为什么会有那么多相互矛盾的地方</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M05.mp3" length="73624000" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S01M05.mp3" length="73624000" type="audio/mpeg" />
       <itunes:title>S01M05 真相与阴影</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>5</itunes:episode>
@@ -91,12 +91,12 @@
     </item>
     <item>
       <title>S02M01 洪武铁腕</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M01.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M01.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S02M01.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S02M01.mp3</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
       <description>S02M01 洪武铁腕。1|# 皇帝不想打工了 2| 3|朋友们，欢迎来到《大明开国录》第二季！ 4| 5|上一季我们讲了朱元璋怎么从凤阳的乞丐一路杀到南京的龙椅。十二集节目，我们走完了他人生中最波澜壮阔的四十年。但今天，第二季正式开始，我们要进入一个更加复杂、更加黑暗的篇章——朱元璋当上皇帝之后的三十一年。 6| 7|如果你以为"当上皇帝"就是故事的圆满结局——那你小看历史了。当皇帝从来不是终点，而是一个全新的、噩梦般</description>
       <content:encoded>S02M01 洪武铁腕。1|# 皇帝不想打工了 2| 3|朋友们，欢迎来到《大明开国录》第二季！ 4| 5|上一季我们讲了朱元璋怎么从凤阳的乞丐一路杀到南京的龙椅。十二集节目，我们走完了他人生中最波澜壮阔的四十年。但今天，第二季正式开始，我们要进入一个更加复杂、更加黑暗的篇章——朱元璋当上皇帝之后的三十一年。 6| 7|如果你以为"当上皇帝"就是故事的圆满结局——那你小看历史了。当皇帝从来不是终点，而是一个全新的、噩梦般</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M01.mp3" length="66542720" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S02M01.mp3" length="66542720" type="audio/mpeg" />
       <itunes:title>S02M01 洪武铁腕</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>6</itunes:episode>
@@ -105,12 +105,12 @@
     </item>
     <item>
       <title>S02M02 恐怖统治</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M02.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M02.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S02M02.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S02M02.mp3</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
       <description>S02M02 恐怖统治。1|# 将军的皮 2| 3|朋友们，欢迎来到《大明开国录》！ 4| 5|上一集我们聊了胡惟庸案，今天我们聊一个更恐怖的话题——空印案，以及朱元璋发明的那个令人毛骨悚然的惩罚方式：剥皮实草。 6| 7|如果你觉得"砍头"已经很残忍了，那我告诉你，在朱元璋的惩罚体系里，砍头是最轻的。今天我们来看看洪武朝的"反贪"到底有多恐怖，以及这种恐怖手段背后的心理逻辑。  朋友们，今天这一集，咱们要聊的不仅仅是"</description>
       <content:encoded>S02M02 恐怖统治。1|# 将军的皮 2| 3|朋友们，欢迎来到《大明开国录》！ 4| 5|上一集我们聊了胡惟庸案，今天我们聊一个更恐怖的话题——空印案，以及朱元璋发明的那个令人毛骨悚然的惩罚方式：剥皮实草。 6| 7|如果你觉得"砍头"已经很残忍了，那我告诉你，在朱元璋的惩罚体系里，砍头是最轻的。今天我们来看看洪武朝的"反贪"到底有多恐怖，以及这种恐怖手段背后的心理逻辑。  朋友们，今天这一集，咱们要聊的不仅仅是"</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M02.mp3" length="67231520" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S02M02.mp3" length="67231520" type="audio/mpeg" />
       <itunes:title>S02M02 恐怖统治</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>7</itunes:episode>
@@ -119,12 +119,12 @@
     </item>
     <item>
       <title>S02M03 情报与法律</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M03.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M03.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S02M03.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S02M03.mp3</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
       <description>S02M03 情报与法律。1|# 皇帝的暗影 2| 3|朋友们，欢迎来到《大明开国录》！ 4| 5|今天我们要聊明朝历史上最让人不寒而栗的一个机构——锦衣卫。它是中国历史上第一个制度化的秘密警察组织，也是朱元璋用来监视整个帝国的"暗影之手"。  朋友们，咱们先把锦衣卫放在中国历史的长河里掂量掂量：历朝历代，皇帝都有自己的情报组织——汉朝有绣衣直指使者，唐朝有不良人，宋朝有皇城司，元朝有拱卫司。但那些组织，要么规模有限，要么</description>
       <content:encoded>S02M03 情报与法律。1|# 皇帝的暗影 2| 3|朋友们，欢迎来到《大明开国录》！ 4| 5|今天我们要聊明朝历史上最让人不寒而栗的一个机构——锦衣卫。它是中国历史上第一个制度化的秘密警察组织，也是朱元璋用来监视整个帝国的"暗影之手"。  朋友们，咱们先把锦衣卫放在中国历史的长河里掂量掂量：历朝历代，皇帝都有自己的情报组织——汉朝有绣衣直指使者，唐朝有不良人，宋朝有皇城司，元朝有拱卫司。但那些组织，要么规模有限，要么</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M03.mp3" length="69979680" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S02M03.mp3" length="69979680" type="audio/mpeg" />
       <itunes:title>S02M03 情报与法律</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>8</itunes:episode>
@@ -133,12 +133,12 @@
     </item>
     <item>
       <title>S02M04 制度创举</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M04.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M04.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S02M04.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S02M04.mp3</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
       <description>S02M04 制度创举。1|# 军队自己养自己 2| 3|朋友们，欢迎来到《大明开国录》！ 4| 5|朱元璋有一句很得意的话："吾养兵百万，不费百姓一粒米。"翻译：我养了一百万的军队，没有花老百姓一粒粮食。这听起来很不可思议——养一百万军队居然不花钱？他是怎么做到的？ 6| 7|先交代一下背景数字。明初的军队到底有多少？《明史·兵志》记载，洪武年间全国设卫四百余、所两千余，在册军士一百二十万左右，再加上各地卫所和民兵，常</description>
       <content:encoded>S02M04 制度创举。1|# 军队自己养自己 2| 3|朋友们，欢迎来到《大明开国录》！ 4| 5|朱元璋有一句很得意的话："吾养兵百万，不费百姓一粒米。"翻译：我养了一百万的军队，没有花老百姓一粒粮食。这听起来很不可思议——养一百万军队居然不花钱？他是怎么做到的？ 6| 7|先交代一下背景数字。明初的军队到底有多少？《明史·兵志》记载，洪武年间全国设卫四百余、所两千余，在册军士一百二十万左右，再加上各地卫所和民兵，常</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M04.mp3" length="66657280" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S02M04.mp3" length="66657280" type="audio/mpeg" />
       <itunes:title>S02M04 制度创举</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>9</itunes:episode>
@@ -147,12 +147,12 @@
     </item>
     <item>
       <title>S02M05 朝中万象</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M05.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M05.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S02M05.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S02M05.mp3</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0800</pubDate>
       <description>S02M05 朝中万象。1|# 老婆孩子热炕头 2| 3|朋友们，欢迎来到《大明开国录》！前几集我们都在聊朱元璋怎么治官、怎么治军、怎么治国——讲权力、讲制度、讲杀头。今天换个角度，我们来看看在洪武朝，普通老百姓的日子到底过得怎么样。 4| 5|朱元璋是从最底层上来的皇帝，他对农民有一种天然的亲近。他说过：朕本农夫，深知民间疾苦。所以他对农民的政策是历朝历代最好的之一。他搞了"鱼鳞图册"清丈全国土地，让每一个农民的土地都</description>
       <content:encoded>S02M05 朝中万象。1|# 老婆孩子热炕头 2| 3|朋友们，欢迎来到《大明开国录》！前几集我们都在聊朱元璋怎么治官、怎么治军、怎么治国——讲权力、讲制度、讲杀头。今天换个角度，我们来看看在洪武朝，普通老百姓的日子到底过得怎么样。 4| 5|朱元璋是从最底层上来的皇帝，他对农民有一种天然的亲近。他说过：朕本农夫，深知民间疾苦。所以他对农民的政策是历朝历代最好的之一。他搞了"鱼鳞图册"清丈全国土地，让每一个农民的土地都</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M05.mp3" length="89134400" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S02M05.mp3" length="89134400" type="audio/mpeg" />
       <itunes:title>S02M05 朝中万象</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>10</itunes:episode>
@@ -161,12 +161,12 @@
     </item>
     <item>
       <title>S03M01 储位之变</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M01.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M01.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S03M01.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S03M01.mp3</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0800</pubDate>
       <description>S03M01 储位之变。朋友们，欢迎来到《大明开国录》！  这一集，我们把镜头对准靖难之役的根源——两代人的命运转折。太子朱标的英年早逝，就像推倒第一张多米诺骨牌，引发了一连串不可逆转的连锁反应：朱元璋疯狂屠戮功臣、少年建文帝无人可用、削藩逼反燕王朱棣、四年内战死伤数十万。而这一切的起点，是一个三十七岁太子的离世。  ---  朱标出生于1355年，元朝至正十五年。那一年，朱元璋还在打天下，正处于事业上升期。他刚刚率军渡</description>
       <content:encoded>S03M01 储位之变。朋友们，欢迎来到《大明开国录》！  这一集，我们把镜头对准靖难之役的根源——两代人的命运转折。太子朱标的英年早逝，就像推倒第一张多米诺骨牌，引发了一连串不可逆转的连锁反应：朱元璋疯狂屠戮功臣、少年建文帝无人可用、削藩逼反燕王朱棣、四年内战死伤数十万。而这一切的起点，是一个三十七岁太子的离世。  ---  朱标出生于1355年，元朝至正十五年。那一年，朱元璋还在打天下，正处于事业上升期。他刚刚率军渡</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M01.mp3" length="71877120" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S03M01.mp3" length="71877120" type="audio/mpeg" />
       <itunes:title>S03M01 储位之变</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>11</itunes:episode>
@@ -175,12 +175,12 @@
     </item>
     <item>
       <title>S03M02 燕王起兵</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M02.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M02.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S03M02.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S03M02.mp3</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
       <description>S03M02 燕王起兵。朋友们，欢迎回到《大明开国录》！  这一集，我们把目光从南京转到北平。建文帝的削藩大刀已经砍翻了五个藩王，湘王被逼自焚，周王齐王代王岷王被废为庶人。下一个目标，就是所有藩王中最强的那个——燕王朱棣。而朱棣呢？他在装疯。他在北平城里披头散发、抢人吃食、在泥地里打滚。但每天晚上回到王府，他脱下脏衣服、洗掉泥、换上盔甲，开始部署军事行动。今天我们来看看这头蛰伏的猛虎是如何亮出爪牙的。  ---  朱棣，</description>
       <content:encoded>S03M02 燕王起兵。朋友们，欢迎回到《大明开国录》！  这一集，我们把目光从南京转到北平。建文帝的削藩大刀已经砍翻了五个藩王，湘王被逼自焚，周王齐王代王岷王被废为庶人。下一个目标，就是所有藩王中最强的那个——燕王朱棣。而朱棣呢？他在装疯。他在北平城里披头散发、抢人吃食、在泥地里打滚。但每天晚上回到王府，他脱下脏衣服、洗掉泥、换上盔甲，开始部署军事行动。今天我们来看看这头蛰伏的猛虎是如何亮出爪牙的。  ---  朱棣，</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M02.mp3" length="72348000" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S03M02.mp3" length="72348000" type="audio/mpeg" />
       <itunes:title>S03M02 燕王起兵</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>12</itunes:episode>
@@ -189,12 +189,12 @@
     </item>
     <item>
       <title>S03M03 叔侄血战</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M03.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M03.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S03M03.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S03M03.mp3</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate>
       <description>S03M03 叔侄血战。朋友们，欢迎回到《大明开国录》！  这一集，我们走进靖难之役的核心战场。四年时间，从北平到南京，从东昌的惨败到夹河的复仇，朱棣以少胜多、以快制慢，硬是把一场看似毫无胜算的战争打到了长江边上。而当燕军的旗帜终于出现在南京城头的时候，那个二十一岁登基、心怀仁政理想的少年天子，迎来了他人生中最黑暗的一天。  ---  第一年（1399年）的战局，我们已经讲过了。朱棣拿下北平，击溃耿炳文和李景隆，取得了开</description>
       <content:encoded>S03M03 叔侄血战。朋友们，欢迎回到《大明开国录》！  这一集，我们走进靖难之役的核心战场。四年时间，从北平到南京，从东昌的惨败到夹河的复仇，朱棣以少胜多、以快制慢，硬是把一场看似毫无胜算的战争打到了长江边上。而当燕军的旗帜终于出现在南京城头的时候，那个二十一岁登基、心怀仁政理想的少年天子，迎来了他人生中最黑暗的一天。  ---  第一年（1399年）的战局，我们已经讲过了。朱棣拿下北平，击溃耿炳文和李景隆，取得了开</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M03.mp3" length="71855520" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S03M03.mp3" length="71855520" type="audio/mpeg" />
       <itunes:title>S03M03 叔侄血战</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>13</itunes:episode>
@@ -203,12 +203,12 @@
     </item>
     <item>
       <title>S03M04 血色清算</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M04.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M04.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S03M04.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S03M04.mp3</guid>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0800</pubDate>
       <description>S03M04 血色清算。朋友们，欢迎回到《大明开国录》！  这一集，可能是整个靖难之役系列中最沉重的一集。南京城破了，建文帝失踪了，但朱棣的刀还没有放下。他要用血来洗刷篡位的污名，用最残暴的手段消灭一切可能的威胁。方孝孺被诛十族——连朋友和学生都被算成一族拉去砍头。齐泰黄子澄被凌迟，铁铉被割耳鼻，景清被剥皮实草。永乐盛世的辉煌，是建立在这些白骨之上的。而那个在皇宫大火中消失的年轻皇帝，成了困扰中国人六百年的永恒谜题。  </description>
       <content:encoded>S03M04 血色清算。朋友们，欢迎回到《大明开国录》！  这一集，可能是整个靖难之役系列中最沉重的一集。南京城破了，建文帝失踪了，但朱棣的刀还没有放下。他要用血来洗刷篡位的污名，用最残暴的手段消灭一切可能的威胁。方孝孺被诛十族——连朋友和学生都被算成一族拉去砍头。齐泰黄子澄被凌迟，铁铉被割耳鼻，景清被剥皮实草。永乐盛世的辉煌，是建立在这些白骨之上的。而那个在皇宫大火中消失的年轻皇帝，成了困扰中国人六百年的永恒谜题。  </content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M04.mp3" length="69862240" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S03M04.mp3" length="69862240" type="audio/mpeg" />
       <itunes:title>S03M04 血色清算</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>14</itunes:episode>
@@ -217,12 +217,12 @@
     </item>
     <item>
       <title>S03M05 历史回响</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M05.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M05.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S03M05.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S03M05.mp3</guid>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0800</pubDate>
       <description>S03M05 历史回响。朋友们，欢迎回到《大明开国录》！  这是第三季的最后一集。我们不再讲故事，而是来复盘和反思。首先，我们从朝鲜人的眼睛看靖难——第三方视角往往能补全被胜利者删改的真相，朝鲜使者的记录比中国正史更加真实生动。然后，我们系统梳理靖难之役给明朝带来的五大根本改变。最后，我们来回答那个终极问题：靖难之役到底是谁的错？这场骨肉相残的悲剧，值不值得？  ---  首先，我们来了解一下当时的朝鲜。朝鲜在明初的时候</description>
       <content:encoded>S03M05 历史回响。朋友们，欢迎回到《大明开国录》！  这是第三季的最后一集。我们不再讲故事，而是来复盘和反思。首先，我们从朝鲜人的眼睛看靖难——第三方视角往往能补全被胜利者删改的真相，朝鲜使者的记录比中国正史更加真实生动。然后，我们系统梳理靖难之役给明朝带来的五大根本改变。最后，我们来回答那个终极问题：靖难之役到底是谁的错？这场骨肉相残的悲剧，值不值得？  ---  首先，我们来了解一下当时的朝鲜。朝鲜在明初的时候</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M05.mp3" length="71644320" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S03M05.mp3" length="71644320" type="audio/mpeg" />
       <itunes:title>S03M05 历史回响</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>15</itunes:episode>
@@ -231,12 +231,12 @@
     </item>
     <item>
       <title>S04M01 永乐雄心</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M01.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M01.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S04M01.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S04M01.mp3</guid>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0800</pubDate>
       <description>S04M01 永乐雄心。朋友们，欢迎来到《大明开国录》！  本集融合了永乐大帝登基之初的三大战略：巩固统治、迁都北京和派遣宝船出海。这三件事，分别对应着朱棣"向内整肃""向北扎根"和"向外开拓"的治国思路，共同构成了永乐盛世的基石。  ---  第三季我们讲完了靖难之役。朱棣打败了侄子朱允炆，坐上了龙椅。但朋友们，故事才刚刚开始。坐上龙椅只是第一步，坐稳龙椅才是真正的挑战。你想想看，一个靠造反上位的皇帝，满朝文武怎么看你</description>
       <content:encoded>S04M01 永乐雄心。朋友们，欢迎来到《大明开国录》！  本集融合了永乐大帝登基之初的三大战略：巩固统治、迁都北京和派遣宝船出海。这三件事，分别对应着朱棣"向内整肃""向北扎根"和"向外开拓"的治国思路，共同构成了永乐盛世的基石。  ---  第三季我们讲完了靖难之役。朱棣打败了侄子朱允炆，坐上了龙椅。但朋友们，故事才刚刚开始。坐上龙椅只是第一步，坐稳龙椅才是真正的挑战。你想想看，一个靠造反上位的皇帝，满朝文武怎么看你</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M01.mp3" length="71649280" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S04M01.mp3" length="71649280" type="audio/mpeg" />
       <itunes:title>S04M01 永乐雄心</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>16</itunes:episode>
@@ -245,12 +245,12 @@
     </item>
     <item>
       <title>S04M02 帝国荣耀</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M02.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M02.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S04M02.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S04M02.mp3</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0800</pubDate>
       <description>S04M02 帝国荣耀。朋友们，欢迎回到《大明开国录》！  本集我们聚焦永乐朝最耀眼的两大成就：郑和七下西洋的壮举和《永乐大典》的编纂。一个是走向海洋的巅峰时刻，一个是汇集天下知识的文化丰碑。这两件事，代表了永乐盛世最辉煌的面向。  ---  上一集我们讲了郑和宝船出海，介绍了郑和这个人和他的无敌舰队。今天这一集，我们沿着郑和的航线，去看看他到底去了哪些地方，遇到了什么事，带回了什么。以及——为什么这样一个轰轰烈烈的事业</description>
       <content:encoded>S04M02 帝国荣耀。朋友们，欢迎回到《大明开国录》！  本集我们聚焦永乐朝最耀眼的两大成就：郑和七下西洋的壮举和《永乐大典》的编纂。一个是走向海洋的巅峰时刻，一个是汇集天下知识的文化丰碑。这两件事，代表了永乐盛世最辉煌的面向。  ---  上一集我们讲了郑和宝船出海，介绍了郑和这个人和他的无敌舰队。今天这一集，我们沿着郑和的航线，去看看他到底去了哪些地方，遇到了什么事，带回了什么。以及——为什么这样一个轰轰烈烈的事业</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M02.mp3" length="71812000" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S04M02.mp3" length="71812000" type="audio/mpeg" />
       <itunes:title>S04M02 帝国荣耀</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>17</itunes:episode>
@@ -259,12 +259,12 @@
     </item>
     <item>
       <title>S04M03 文治武功</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M03.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M03.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S04M03.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S04M03.mp3</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
       <description>S04M03 文治武功。朋友们，欢迎回到《大明开国录》！  本集我们讲两个看似对立的故事：朱棣五征蒙古的赫赫武功，和解缙之死的文人悲剧。一个皇帝在战场上赢得了一切，却在书房里留下了一声叹息。文治与武功之间，藏着永乐朝最深层的矛盾。  ---  今天这一集，我们聊朱棣五征蒙古——这位皇帝最执着的事业，也是他最后的归宿。  你可能会想：蒙古不是早就被朱元璋赶回草原了吗，朱棣为什么还要打？而且一打就是五次，最后还死在了征途上。</description>
       <content:encoded>S04M03 文治武功。朋友们，欢迎回到《大明开国录》！  本集我们讲两个看似对立的故事：朱棣五征蒙古的赫赫武功，和解缙之死的文人悲剧。一个皇帝在战场上赢得了一切，却在书房里留下了一声叹息。文治与武功之间，藏着永乐朝最深层的矛盾。  ---  今天这一集，我们聊朱棣五征蒙古——这位皇帝最执着的事业，也是他最后的归宿。  你可能会想：蒙古不是早就被朱元璋赶回草原了吗，朱棣为什么还要打？而且一打就是五次，最后还死在了征途上。</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M03.mp3" length="71839360" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S04M03.mp3" length="71839360" type="audio/mpeg" />
       <itunes:title>S04M03 文治武功</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>18</itunes:episode>
@@ -273,12 +273,12 @@
     </item>
     <item>
       <title>S04M04 权力阴影</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M04.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M04.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S04M04.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S04M04.mp3</guid>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
       <description>S04M04 权力阴影。朋友们，欢迎回到《大明开国录》！  本集我们走进永乐朝最黑暗的一面。瓜蔓抄的血腥清洗，储位之争的兄弟相残——这些都是永乐盛世光鲜外表下的阴影。一个靠造反上台的皇帝，用恐怖维系统治，在儿子们身上又看到了自己的影子。权力，从来都是一把双刃剑。  ---  今天这一集，我们要讲永乐朝最血腥的一章——瓜蔓抄。  你如果看过前几季，应该记得朱元璋搞过胡惟庸案和蓝玉案，杀了几万人。但朋友们，如果你以为朱元璋的</description>
       <content:encoded>S04M04 权力阴影。朋友们，欢迎回到《大明开国录》！  本集我们走进永乐朝最黑暗的一面。瓜蔓抄的血腥清洗，储位之争的兄弟相残——这些都是永乐盛世光鲜外表下的阴影。一个靠造反上台的皇帝，用恐怖维系统治，在儿子们身上又看到了自己的影子。权力，从来都是一把双刃剑。  ---  今天这一集，我们要讲永乐朝最血腥的一章——瓜蔓抄。  你如果看过前几季，应该记得朱元璋搞过胡惟庸案和蓝玉案，杀了几万人。但朋友们，如果你以为朱元璋的</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M04.mp3" length="71400640" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S04M04.mp3" length="71400640" type="audio/mpeg" />
       <itunes:title>S04M04 权力阴影</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>19</itunes:episode>
@@ -287,12 +287,12 @@
     </item>
     <item>
       <title>S04M05 大帝终章</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M05.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M05.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S04M05.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S04M05.mp3</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
       <description>S04M05 大帝终章。朋友们，欢迎回到《大明开国录》！  本集是第四季的收官之作。我们将看到永乐朝的全方位对外关系，看到欧洲人第一次抵达中国海岸线，也看到永乐大帝生命最后的旅程。一个时代结束了，但它留下的遗产，影响了此后数百年的中国和世界。  ---  今天这一集，我们跳出中原的视角，站在整个世界的版图上看永乐朝。郑和下西洋我们已经专门用两集讲过了，所以这一集我们聚焦郑和之外的故事——朱棣如何处理与周边各国的关系？永乐</description>
       <content:encoded>S04M05 大帝终章。朋友们，欢迎回到《大明开国录》！  本集是第四季的收官之作。我们将看到永乐朝的全方位对外关系，看到欧洲人第一次抵达中国海岸线，也看到永乐大帝生命最后的旅程。一个时代结束了，但它留下的遗产，影响了此后数百年的中国和世界。  ---  今天这一集，我们跳出中原的视角，站在整个世界的版图上看永乐朝。郑和下西洋我们已经专门用两集讲过了，所以这一集我们聚焦郑和之外的故事——朱棣如何处理与周边各国的关系？永乐</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M05.mp3" length="71524160" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S04M05.mp3" length="71524160" type="audio/mpeg" />
       <itunes:title>S04M05 大帝终章</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>20</itunes:episode>
@@ -301,12 +301,12 @@
     </item>
     <item>
       <title>S05M01 仁宣余晖</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M01.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M01.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S05M01.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S05M01.mp3</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0800</pubDate>
       <description>S05M01 仁宣余晖。朋友们，欢迎来到《大明开国录》！  在进入今天的正题之前，我想先帮大家梳理一下时间线。我们现在处于1424年。四年前，紫禁城刚刚建成，永乐大帝朱棣意气风发，大明朝如日中天。郑和的宝船正在印度洋上乘风破浪，各国的使臣络绎不绝地来到北京朝贡。用现代人的眼光看，这应该是中国历史上最强盛的时刻之一。用一句流行语来说——"大明，无敌"。  但历史的吊诡之处在于：巅峰往往意味着下坡的开始。  这一季，我们要讲</description>
       <content:encoded>S05M01 仁宣余晖。朋友们，欢迎来到《大明开国录》！  在进入今天的正题之前，我想先帮大家梳理一下时间线。我们现在处于1424年。四年前，紫禁城刚刚建成，永乐大帝朱棣意气风发，大明朝如日中天。郑和的宝船正在印度洋上乘风破浪，各国的使臣络绎不绝地来到北京朝贡。用现代人的眼光看，这应该是中国历史上最强盛的时刻之一。用一句流行语来说——"大明，无敌"。  但历史的吊诡之处在于：巅峰往往意味着下坡的开始。  这一季，我们要讲</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M01.mp3" length="71610240" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S05M01.mp3" length="71610240" type="audio/mpeg" />
       <itunes:title>S05M01 仁宣余晖</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>21</itunes:episode>
@@ -315,12 +315,12 @@
     </item>
     <item>
       <title>S05M02 宦官乱政</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M02.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M02.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S05M02.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S05M02.mp3</guid>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0800</pubDate>
       <description>S05M02 宦官乱政。朋友们，欢迎回到《大明开国录》！  今天这一集我们要讲的故事，主角不是皇帝，不是大臣，不是将军，而是一群女人——后宫的女人们。  别小看后宫。中国历史上，多少王朝的兴衰转折，源头都在那张龙床旁边。皇帝喜欢谁、讨厌谁、立谁的儿子当太子——这些看似"私事"的决定，往往会引发巨大的政治震荡。唐朝的武则天、汉朝的吕后、清朝的慈禧，每一个都是从后宫走向权力巅峰的女人。明朝虽然没有出现像武则天那样直接称帝的女</description>
       <content:encoded>S05M02 宦官乱政。朋友们，欢迎回到《大明开国录》！  今天这一集我们要讲的故事，主角不是皇帝，不是大臣，不是将军，而是一群女人——后宫的女人们。  别小看后宫。中国历史上，多少王朝的兴衰转折，源头都在那张龙床旁边。皇帝喜欢谁、讨厌谁、立谁的儿子当太子——这些看似"私事"的决定，往往会引发巨大的政治震荡。唐朝的武则天、汉朝的吕后、清朝的慈禧，每一个都是从后宫走向权力巅峰的女人。明朝虽然没有出现像武则天那样直接称帝的女</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M02.mp3" length="71536320" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S05M02.mp3" length="71536320" type="audio/mpeg" />
       <itunes:title>S05M02 宦官乱政</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>22</itunes:episode>
@@ -329,12 +329,12 @@
     </item>
     <item>
       <title>S05M03 力挽狂澜</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M03.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M03.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S05M03.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S05M03.mp3</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0800</pubDate>
       <description>S05M03 力挽狂澜。朋友们，欢迎回到《大明开国录》！  上一集我们把王振的底细扒了个干净——那个考不上功名愤而净身的读书人，如何一步步从一个普通太监爬到权倾朝野的位置。他排除异己，结党营私，疯狂敛财，把明朝的官僚系统和军事系统折腾得千疮百孔。而这一切，都为他一手导演的土木堡惨剧做好了铺垫。  今天我们来到这个系列最关键的一集：土木堡之变。这不仅是明朝历史的转折点，也是整个中国帝制时代最著名、最荒唐的军事灾难之一。我们</description>
       <content:encoded>S05M03 力挽狂澜。朋友们，欢迎回到《大明开国录》！  上一集我们把王振的底细扒了个干净——那个考不上功名愤而净身的读书人，如何一步步从一个普通太监爬到权倾朝野的位置。他排除异己，结党营私，疯狂敛财，把明朝的官僚系统和军事系统折腾得千疮百孔。而这一切，都为他一手导演的土木堡惨剧做好了铺垫。  今天我们来到这个系列最关键的一集：土木堡之变。这不仅是明朝历史的转折点，也是整个中国帝制时代最著名、最荒唐的军事灾难之一。我们</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M03.mp3" length="73025440" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S05M03.mp3" length="73025440" type="audio/mpeg" />
       <itunes:title>S05M03 力挽狂澜</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>23</itunes:episode>
@@ -343,12 +343,12 @@
     </item>
     <item>
       <title>S05M04 民间百态</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M04.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M04.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S05M04.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S05M04.mp3</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
       <description>S05M04 民间百态。朋友们，欢迎回到《大明开国录》！  前面几集我们讲了很多"大事件"——土木堡之战、北京保卫战、夺门之变。那些都是帝王将相的故事，是史书上浓墨重彩的篇章。但今天这一集，我们要把镜头从朝堂上移开，对准那些在史书中几乎不会留下名字的人——明初的普通老百姓。  朱元璋当了皇帝之后，老百姓的日子到底过得怎么样？这个问题比你想的要复杂得多。一方面，朱元璋出身底层，对农民的苦难有切身体会。他当皇帝后的确采取了很</description>
       <content:encoded>S05M04 民间百态。朋友们，欢迎回到《大明开国录》！  前面几集我们讲了很多"大事件"——土木堡之战、北京保卫战、夺门之变。那些都是帝王将相的故事，是史书上浓墨重彩的篇章。但今天这一集，我们要把镜头从朝堂上移开，对准那些在史书中几乎不会留下名字的人——明初的普通老百姓。  朱元璋当了皇帝之后，老百姓的日子到底过得怎么样？这个问题比你想的要复杂得多。一方面，朱元璋出身底层，对农民的苦难有切身体会。他当皇帝后的确采取了很</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M04.mp3" length="71504000" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S05M04.mp3" length="71504000" type="audio/mpeg" />
       <itunes:title>S05M04 民间百态</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>24</itunes:episode>
@@ -357,12 +357,12 @@
     </item>
     <item>
       <title>S05M05 帝国回望</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M05.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M05.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S05M05.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S05M05.mp3</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
       <description>S05M05 帝国回望。朋友们，欢迎回到《大明开国录》！  今天我们来聊一个让人既骄傲又遗憾的话题——明初的科技与文化。骄傲的是，明朝在很多领域都达到了世界领先水平，火器、造船、医学样样都不含糊，文学艺术更是群星璀璨。遗憾的是，这些领先的优势没有被好好转化为持久的进步，反而在后来被欧洲反超了。这背后有深刻的制度原因，值得我们今天好好掰扯掰扯。  先聊科技。明朝最重要的军事科技创新是火器。这不是说明朝发明了火器——火器在宋</description>
       <content:encoded>S05M05 帝国回望。朋友们，欢迎回到《大明开国录》！  今天我们来聊一个让人既骄傲又遗憾的话题——明初的科技与文化。骄傲的是，明朝在很多领域都达到了世界领先水平，火器、造船、医学样样都不含糊，文学艺术更是群星璀璨。遗憾的是，这些领先的优势没有被好好转化为持久的进步，反而在后来被欧洲反超了。这背后有深刻的制度原因，值得我们今天好好掰扯掰扯。  先聊科技。明朝最重要的军事科技创新是火器。这不是说明朝发明了火器——火器在宋</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M05.mp3" length="72134240" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S05M05.mp3" length="72134240" type="audio/mpeg" />
       <itunes:title>S05M05 帝国回望</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>25</itunes:episode>
@@ -371,12 +371,12 @@
     </item>
     <item>
       <title>S06M01 开国传说</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M01.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M01.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S06M01.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S06M01.mp3</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
       <description>S06M01 开国传说。朋友们，欢迎来到《大明开国录》！  这一集是第六季的特别合集，我们将三个流传最广的明初传说——"火烧庆功楼"、"刘伯温斩龙脉"和"朱元璋的密旨"——合并在一起，带你一口气领略那些真假难辨、却在民间流传了数百年的野史传奇。  这个故事你一定听过，不管你是从评书里听来的、从电视剧里看来的、还是爷爷奶奶在炕头上讲给你听的。我来帮你把剧情重温一遍，因为不同版本在细节上各有千秋，今天我们把最经典的那个版本完</description>
       <content:encoded>S06M01 开国传说。朋友们，欢迎来到《大明开国录》！  这一集是第六季的特别合集，我们将三个流传最广的明初传说——"火烧庆功楼"、"刘伯温斩龙脉"和"朱元璋的密旨"——合并在一起，带你一口气领略那些真假难辨、却在民间流传了数百年的野史传奇。  这个故事你一定听过，不管你是从评书里听来的、从电视剧里看来的、还是爷爷奶奶在炕头上讲给你听的。我来帮你把剧情重温一遍，因为不同版本在细节上各有千秋，今天我们把最经典的那个版本完</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M01.mp3" length="77839840" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S06M01.mp3" length="77839840" type="audio/mpeg" />
       <itunes:title>S06M01 开国传说</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>26</itunes:episode>
@@ -385,12 +385,12 @@
     </item>
     <item>
       <title>S06M02 帝后传奇</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M02.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M02.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S06M02.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S06M02.mp3</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
       <description>S06M02 帝后传奇。朋友们，欢迎来到《大明开国录》！  这一集我们聊大明朝最受人尊敬的女人和最离奇的鬼怪传说——马皇后的传奇一生，和明初那些说不清道不明的鬼神故事。这两个话题看似一个在天一个在地，但它们背后讲的是同一件事：在朱家的铁拳统治之下，普通人是如何寻找光明和慰藉的。马皇后给了朝堂上的人一丝仁慈，鬼怪传说给了底层百姓一个正义的出口。  我们先说说马秀英的出身。她出生于安徽宿州一个殷实人家，父亲马公是当地的富户。</description>
       <content:encoded>S06M02 帝后传奇。朋友们，欢迎来到《大明开国录》！  这一集我们聊大明朝最受人尊敬的女人和最离奇的鬼怪传说——马皇后的传奇一生，和明初那些说不清道不明的鬼神故事。这两个话题看似一个在天一个在地，但它们背后讲的是同一件事：在朱家的铁拳统治之下，普通人是如何寻找光明和慰藉的。马皇后给了朝堂上的人一丝仁慈，鬼怪传说给了底层百姓一个正义的出口。  我们先说说马秀英的出身。她出生于安徽宿州一个殷实人家，父亲马公是当地的富户。</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M02.mp3" length="71478560" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S06M02.mp3" length="71478560" type="audio/mpeg" />
       <itunes:title>S06M02 帝后传奇</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>27</itunes:episode>
@@ -399,12 +399,12 @@
     </item>
     <item>
       <title>S06M03 邻国视角(上)</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M03.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M03.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S06M03.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S06M03.mp3</guid>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0800</pubDate>
       <description>S06M03 邻国视角(上)。朋友们，欢迎来到《大明开国录》！  前面几集我们讲的都是中国人自己写的故事——正史也好野史也好，都是内部视角。但从这一集开始，我们要站到"外国人"的立场上，看看明朝初年在邻国眼中到底是怎样一副模样。今天我们先去两个最近的邻居家串门——朝鲜和越南。一个是明朝最忠实的藩属国，一个是明朝最痛苦的被征服者。隔着并不宽阔的鸭绿江和并不险峻的镇南关，他们眼中的大明，和中国史书里那个"天朝上国"判若两国。  在</description>
       <content:encoded>S06M03 邻国视角(上)。朋友们，欢迎来到《大明开国录》！  前面几集我们讲的都是中国人自己写的故事——正史也好野史也好，都是内部视角。但从这一集开始，我们要站到"外国人"的立场上，看看明朝初年在邻国眼中到底是怎样一副模样。今天我们先去两个最近的邻居家串门——朝鲜和越南。一个是明朝最忠实的藩属国，一个是明朝最痛苦的被征服者。隔着并不宽阔的鸭绿江和并不险峻的镇南关，他们眼中的大明，和中国史书里那个"天朝上国"判若两国。  在</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M03.mp3" length="71987360" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S06M03.mp3" length="71987360" type="audio/mpeg" />
       <itunes:title>S06M03 邻国视角(上)</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>28</itunes:episode>
@@ -413,12 +413,12 @@
     </item>
     <item>
       <title>S06M04 邻国视角(下)</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M04.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M04.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S06M04.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S06M04.mp3</guid>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0800</pubDate>
       <description>S06M04 邻国视角(下)。朋友们，欢迎回到《大明开国录》！  上一集我们看了朝鲜和越南两个近邻眼中的明朝。今天我们把视野拉得更远——跨越东海去日本，穿过欧亚大陆去欧洲，再沿着丝绸之路西行到伊斯兰世界。三个完全不同的文明，三种截然不同的目光，共同凝视着15世纪地球上最强大的帝国——大明。  我们先说官方层面的关系。明朝建立后朱元璋先后派了多批使者去日本，要求日本幕府管束海盗并来中国"称臣纳贡"。当时日本正处于南北朝分裂时期，</description>
       <content:encoded>S06M04 邻国视角(下)。朋友们，欢迎回到《大明开国录》！  上一集我们看了朝鲜和越南两个近邻眼中的明朝。今天我们把视野拉得更远——跨越东海去日本，穿过欧亚大陆去欧洲，再沿着丝绸之路西行到伊斯兰世界。三个完全不同的文明，三种截然不同的目光，共同凝视着15世纪地球上最强大的帝国——大明。  我们先说官方层面的关系。明朝建立后朱元璋先后派了多批使者去日本，要求日本幕府管束海盗并来中国"称臣纳贡"。当时日本正处于南北朝分裂时期，</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M04.mp3" length="79595520" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S06M04.mp3" length="79595520" type="audio/mpeg" />
       <itunes:title>S06M04 邻国视角(下)</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>29</itunes:episode>
@@ -427,12 +427,12 @@
     </item>
     <item>
       <title>S06M05 千古之谜</title>
-      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M05.mp3</link>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M05.mp3</guid>
+      <link>https://DEMON987654321.github.io/daming/episodes/S06M05.mp3</link>
+      <guid isPermaLink="false">https://DEMON987654321.github.io/daming/episodes/S06M05.mp3</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0800</pubDate>
       <description>S06M05 千古之谜。朋友们，欢迎来到《大明开国录》！  这是第六季的最后一集，也是整个系列七十二集长跑的终点。这一集我们做两件事：先盘点明初这七十年给后世留下的制度遗产和文化基因——那些至今仍在影响我们的东西；然后回顾那些至今没有标准答案的历史谜题。不是要给答案——很多谜题可能永远没有答案——而是想通过这些问题，让你感受到历史的复杂和迷人。  这一集我们要跳出具体的事件，站在更高的维度来看看——明初到底给后世留下了什</description>
       <content:encoded>S06M05 千古之谜。朋友们，欢迎来到《大明开国录》！  这是第六季的最后一集，也是整个系列七十二集长跑的终点。这一集我们做两件事：先盘点明初这七十年给后世留下的制度遗产和文化基因——那些至今仍在影响我们的东西；然后回顾那些至今没有标准答案的历史谜题。不是要给答案——很多谜题可能永远没有答案——而是想通过这些问题，让你感受到历史的复杂和迷人。  这一集我们要跳出具体的事件，站在更高的维度来看看——明初到底给后世留下了什</content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M05.mp3" length="71316480" type="audio/mpeg" />
+      <enclosure url="https://DEMON987654321.github.io/daming/episodes/S06M05.mp3" length="71316480" type="audio/mpeg" />
       <itunes:title>S06M05 千古之谜</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>30</itunes:episode>
