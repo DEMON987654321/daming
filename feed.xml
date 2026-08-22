@@ -10,7 +10,9 @@
     <itunes:summary>从朱元璋开国到弘治中兴，大明王朝三百年通史。六季三十集，讲透帝国兴衰的制度密码与历史逻辑：废丞相、设内阁、迁都北京、郑和下西洋——硬核史实与通俗叙事的结合。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://raw.githubusercontent.com/DEMON987654321/daming/main/cover.png" />
-    <itunes:category text="History" />
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="History" />
+    </itunes:category>
     <itunes:owner>
       <itunes:name>大王</itunes:name>
       <itunes:email>644616136@qq.com</itunes:email>
@@ -28,6 +30,7 @@
       <itunes:title>S01M01 乱世孤儿</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:duration>66:12</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -42,6 +45,7 @@
       <itunes:title>S01M02 群雄逐鹿</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:duration>73:05</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -56,6 +60,7 @@
       <itunes:title>S01M03 开国定鼎</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:duration>69:17</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -70,6 +75,7 @@
       <itunes:title>S01M04 帝王画像</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:duration>68:35</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -84,6 +90,7 @@
       <itunes:title>S01M05 真相与阴影</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:duration>76:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -98,6 +105,7 @@
       <itunes:title>S02M01 洪武铁腕</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>6</itunes:episode>
+      <itunes:season>2</itunes:season>
       <itunes:duration>69:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -112,6 +120,7 @@
       <itunes:title>S02M02 恐怖统治</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>7</itunes:episode>
+      <itunes:season>2</itunes:season>
       <itunes:duration>70:01</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -126,6 +135,7 @@
       <itunes:title>S02M03 情报与法律</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>8</itunes:episode>
+      <itunes:season>2</itunes:season>
       <itunes:duration>72:53</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -140,6 +150,7 @@
       <itunes:title>S02M04 制度创举</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>9</itunes:episode>
+      <itunes:season>2</itunes:season>
       <itunes:duration>69:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -154,6 +165,7 @@
       <itunes:title>S02M05 朝中万象</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>10</itunes:episode>
+      <itunes:season>2</itunes:season>
       <itunes:duration>92:50</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -168,6 +180,7 @@
       <itunes:title>S03M01 储位之变</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>11</itunes:episode>
+      <itunes:season>3</itunes:season>
       <itunes:duration>74:52</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -182,6 +195,7 @@
       <itunes:title>S03M02 燕王起兵</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>12</itunes:episode>
+      <itunes:season>3</itunes:season>
       <itunes:duration>75:21</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -196,6 +210,7 @@
       <itunes:title>S03M03 叔侄血战</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>13</itunes:episode>
+      <itunes:season>3</itunes:season>
       <itunes:duration>74:50</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -210,6 +225,7 @@
       <itunes:title>S03M04 血色清算</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>14</itunes:episode>
+      <itunes:season>3</itunes:season>
       <itunes:duration>72:46</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -224,6 +240,7 @@
       <itunes:title>S03M05 历史回响</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>15</itunes:episode>
+      <itunes:season>3</itunes:season>
       <itunes:duration>74:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -238,6 +255,7 @@
       <itunes:title>S04M01 永乐雄心</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>16</itunes:episode>
+      <itunes:season>4</itunes:season>
       <itunes:duration>74:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -252,6 +270,7 @@
       <itunes:title>S04M02 帝国荣耀</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>17</itunes:episode>
+      <itunes:season>4</itunes:season>
       <itunes:duration>74:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -266,6 +285,7 @@
       <itunes:title>S04M03 文治武功</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>18</itunes:episode>
+      <itunes:season>4</itunes:season>
       <itunes:duration>74:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -280,6 +300,7 @@
       <itunes:title>S04M04 权力阴影</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>19</itunes:episode>
+      <itunes:season>4</itunes:season>
       <itunes:duration>74:22</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -294,6 +315,7 @@
       <itunes:title>S04M05 大帝终章</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>20</itunes:episode>
+      <itunes:season>4</itunes:season>
       <itunes:duration>74:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -308,6 +330,7 @@
       <itunes:title>S05M01 仁宣余晖</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>21</itunes:episode>
+      <itunes:season>5</itunes:season>
       <itunes:duration>74:35</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -322,6 +345,7 @@
       <itunes:title>S05M02 宦官乱政</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>22</itunes:episode>
+      <itunes:season>5</itunes:season>
       <itunes:duration>74:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -336,6 +360,7 @@
       <itunes:title>S05M03 力挽狂澜</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>23</itunes:episode>
+      <itunes:season>5</itunes:season>
       <itunes:duration>76:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -350,6 +375,7 @@
       <itunes:title>S05M04 民间百态</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>24</itunes:episode>
+      <itunes:season>5</itunes:season>
       <itunes:duration>74:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -364,6 +390,7 @@
       <itunes:title>S05M05 帝国回望</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>25</itunes:episode>
+      <itunes:season>5</itunes:season>
       <itunes:duration>75:08</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -378,6 +405,7 @@
       <itunes:title>S06M01 开国传说</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>26</itunes:episode>
+      <itunes:season>6</itunes:season>
       <itunes:duration>81:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -392,6 +420,7 @@
       <itunes:title>S06M02 帝后传奇</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>27</itunes:episode>
+      <itunes:season>6</itunes:season>
       <itunes:duration>74:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -406,6 +435,7 @@
       <itunes:title>S06M03 邻国视角(上)</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>28</itunes:episode>
+      <itunes:season>6</itunes:season>
       <itunes:duration>74:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -420,6 +450,7 @@
       <itunes:title>S06M04 邻国视角(下)</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>29</itunes:episode>
+      <itunes:season>6</itunes:season>
       <itunes:duration>82:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -434,6 +465,7 @@
       <itunes:title>S06M05 千古之谜</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>30</itunes:episode>
+      <itunes:season>6</itunes:season>
       <itunes:duration>74:17</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
