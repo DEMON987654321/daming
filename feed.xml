@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>大明开国录</title>
+    <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/feed.xml</link>
+    <language>zh-cn</language>
+    <description>从朱元璋开国到弘治中兴，大明王朝三百年通史。六季三十集，讲透帝国兴衰的制度密码与历史逻辑：废丞相、设内阁、迁都北京、郑和下西洋——硬核史实与通俗叙事的结合。</description>
+    <itunes:subtitle>从朱元璋开国到弘治中兴，大明王朝三百年通史。六季三十集，讲透帝国兴衰的制度密码与历史逻辑：废丞相、设内阁、迁都北京、郑和下西洋——硬核史实与通俗叙事的结合。</itunes:subtitle>
+    <itunes:author>大王</itunes:author>
+    <itunes:summary>从朱元璋开国到弘治中兴，大明王朝三百年通史。六季三十集，讲透帝国兴衰的制度密码与历史逻辑：废丞相、设内阁、迁都北京、郑和下西洋——硬核史实与通俗叙事的结合。</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/DEMON987654321/daming/main/大明开国录_总封面.png" />
+    <itunes:category text="History">
+      <itunes:category text="History" />
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>大王</itunes:name>
+      <itunes:email>644616136@qq.com</itunes:email>
+    </itunes:owner>
+    <itunes:type>episodic</itunes:type>
+    <itunes:new-feed-url>https://raw.githubusercontent.com/DEMON987654321/daming/main/feed.xml</itunes:new-feed-url>
+    <item>
+      <title>S01M01 乱世孤儿</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M01.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M01.mp3</guid>
+      <pubDate>Sun, 23 Aug 2026 00:0 +0800</pubDate>
+      <description>洪武元年，朱元璋在应天登基称帝——从凤阳乞丐到开国皇帝，这个传奇背后是乱世中最惨烈的生存竞争。群雄逐鹿的时代，他凭什么笑到最后？</description>
+      <content:encoded>洪武元年，朱元璋在应天登基称帝——从凤阳乞丐到开国皇帝，这个传奇背后是乱世中最惨烈的生存竞争。群雄逐鹿的时代，他凭什么笑到最后？</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M01.mp3" length="63560000" type="audio/mpeg" />
+      <itunes:title>S01M01 乱世孤儿</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>66:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S01M02 群雄逐鹿</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M02.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M02.mp3</guid>
+      <pubDate>Mon, 24 Aug 2026 00:0 +0800</pubDate>
+      <description>陈友谅、张士诚、方国珍——元末群雄并起，朱元璋如何在夹缝中崛起？鄱阳湖大战，一场改变中国历史走向的生死对决。</description>
+      <content:encoded>陈友谅、张士诚、方国珍——元末群雄并起，朱元璋如何在夹缝中崛起？鄱阳湖大战，一场改变中国历史走向的生死对决。</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M02.mp3" length="70170080" type="audio/mpeg" />
+      <itunes:title>S01M02 群雄逐鹿</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>73:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S01M03 开国定鼎</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M03.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M03.mp3</guid>
+      <pubDate>Tue, 25 Aug 2026 00:0 +0800</pubDate>
+      <description>从吴王到皇帝，从应天到天下——大明开国，制度草创：定都、立国号、设官制，一个崭新王朝的根基如何打下？</description>
+      <content:encoded>从吴王到皇帝，从应天到天下——大明开国，制度草创：定都、立国号、设官制，一个崭新王朝的根基如何打下？</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M03.mp3" length="66526720" type="audio/mpeg" />
+      <itunes:title>S01M03 开国定鼎</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>69:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S01M04 帝王画像</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M04.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M04.mp3</guid>
+      <pubDate>Wed, 26 Aug 2026 00:0 +0800</pubDate>
+      <description>朱元璋的帝王画像：杀伐决断的君主、勤政节俭的皇帝、多疑猜忌的统治者——开国皇帝的复杂面相，藏着怎样的性格密码？</description>
+      <content:encoded>朱元璋的帝王画像：杀伐决断的君主、勤政节俭的皇帝、多疑猜忌的统治者——开国皇帝的复杂面相，藏着怎样的性格密码？</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M04.mp3" length="65853119" type="audio/mpeg" />
+      <itunes:title>S01M04 帝王画像</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>68:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S01M05 真相与阴影</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M05.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M05.mp3</guid>
+      <pubDate>Thu, 27 Aug 2026 00:0 +0800</pubDate>
+      <description>大屠杀、文字狱、锦衣卫——大明开国背后的阴影与真相：功高震主的功臣们，为何逃不过兔死狗烹的命运？</description>
+      <content:encoded>大屠杀、文字狱、锦衣卫——大明开国背后的阴影与真相：功高震主的功臣们，为何逃不过兔死狗烹的命运？</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S01M05.mp3" length="73624000" type="audio/mpeg" />
+      <itunes:title>S01M05 真相与阴影</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>76:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S02M01 洪武铁腕</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M01.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M01.mp3</guid>
+      <pubDate>Fri, 28 Aug 2026 00:0 +0800</pubDate>
+      <description>洪武十三年，朱元璋废除丞相，终结延续两千年的宰相制度；胡惟庸案株连三万，皇权至上的铁腕统治就此拉开序幕。</description>
+      <content:encoded>洪武十三年，朱元璋废除丞相，终结延续两千年的宰相制度；胡惟庸案株连三万，皇权至上的铁腕统治就此拉开序幕。</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M01.mp3" length="66542720" type="audio/mpeg" />
+      <itunes:title>S02M01 洪武铁腕</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>69:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S02M02 恐怖统治</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M02.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M02.mp3</guid>
+      <pubDate>Sat, 29 Aug 2026 00:0 +0800</pubDate>
+      <description>空印案、郭桓案，反贪风暴席卷大明官场；剥皮实草、株连九族，官员上朝如赴刑场——朱元璋的恐怖统治，藏着怎样的治国逻辑？</description>
+      <content:encoded>空印案、郭桓案，反贪风暴席卷大明官场；剥皮实草、株连九族，官员上朝如赴刑场——朱元璋的恐怖统治，藏着怎样的治国逻辑？</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M02.mp3" length="67231520" type="audio/mpeg" />
+      <itunes:title>S02M02 恐怖统治</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>70:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S02M03 情报与法律</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M03.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M03.mp3</guid>
+      <pubDate>Sun, 30 Aug 2026 00:0 +0800</pubDate>
+      <description>锦衣卫，中国历史上第一个制度化的秘密警察组织；从绣衣直指到皇城司，皇帝的“暗影之手”如何监视整个帝国？</description>
+      <content:encoded>锦衣卫，中国历史上第一个制度化的秘密警察组织；从绣衣直指到皇城司，皇帝的“暗影之手”如何监视整个帝国？</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M03.mp3" length="69979680" type="audio/mpeg" />
+      <itunes:title>S02M03 情报与法律</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>72:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S02M04 制度创举</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M04.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M04.mp3</guid>
+      <pubDate>Mon, 31 Aug 2026 00:0 +0800</pubDate>
+      <description>“吾养兵百万，不费百姓一粒米”——卫所制兵农合一，一场财政革命与军事改革，为何最终成为束缚大明的制度枷锁？</description>
+      <content:encoded>“吾养兵百万，不费百姓一粒米”——卫所制兵农合一，一场财政革命与军事改革，为何最终成为束缚大明的制度枷锁？</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M04.mp3" length="66657280" type="audio/mpeg" />
+      <itunes:title>S02M04 制度创举</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+      <itunes:duration>69:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S02M05 朝中万象</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M05.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M05.mp3</guid>
+      <pubDate>Tue, 01 Sep 2026 00:0 +0800</pubDate>
+      <description>鱼鳞图册、里甲制度、社学养济院——“严管厚爱”的朱元璋，给百姓打造了一个怎样的静态农业乌托邦？</description>
+      <content:encoded>鱼鳞图册、里甲制度、社学养济院——“严管厚爱”的朱元璋，给百姓打造了一个怎样的静态农业乌托邦？</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S02M05.mp3" length="89134400" type="audio/mpeg" />
+      <itunes:title>S02M05 朝中万象</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <itunes:duration>92:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S03M01 储位之变</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M01.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M01.mp3</guid>
+      <pubDate>Wed, 02 Sep 2026 00:0 +0800</pubDate>
+      <description>太子朱标英年早逝，皇太孙朱允炆被立为储君——皇位继承的变数悄然埋下，为靖难之役拉开了序幕。</description>
+      <content:encoded>太子朱标英年早逝，皇太孙朱允炆被立为储君——皇位继承的变数悄然埋下，为靖难之役拉开了序幕。</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M01.mp3" length="71877120" type="audio/mpeg" />
+      <itunes:title>S03M01 储位之变</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>11</itunes:episode>
+      <itunes:duration>74:52</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S03M02 燕王起兵</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M02.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M02.mp3</guid>
+      <pubDate>Thu, 03 Sep 2026 00:0 +0800</pubDate>
+      <description>建文帝急行削藩，燕王朱棣以“清君侧”为名举兵南下——叔侄之争，战火席卷整个北方。</description>
+      <content:encoded>建文帝急行削藩，燕王朱棣以“清君侧”为名举兵南下——叔侄之争，战火席卷整个北方。</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M02.mp3" length="72348000" type="audio/mpeg" />
+      <itunes:title>S03M02 燕王起兵</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12</itunes:episode>
+      <itunes:duration>75:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S03M03 叔侄血战</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M03.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M03.mp3</guid>
+      <pubDate>Fri, 04 Sep 2026 00:0 +0800</pubDate>
+      <description>靖难之役三年血战，白沟河、济南、灵璧——朱棣屡败屡战，最终挥师直取南京。</description>
+      <content:encoded>靖难之役三年血战，白沟河、济南、灵璧——朱棣屡败屡战，最终挥师直取南京。</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M03.mp3" length="71855520" type="audio/mpeg" />
+      <itunes:title>S03M03 叔侄血战</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>13</itunes:episode>
+      <itunes:duration>74:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S03M04 血色清算</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M04.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M04.mp3</guid>
+      <pubDate>Sat, 05 Sep 2026 00:0 +0800</pubDate>
+      <description>朱棣攻入南京，建文帝下落成谜；对建文旧臣的血腥清算随之而来，方孝孺等被诛十族。</description>
+      <content:encoded>朱棣攻入南京，建文帝下落成谜；对建文旧臣的血腥清算随之而来，方孝孺等被诛十族。</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M04.mp3" length="69862240" type="audio/mpeg" />
+      <itunes:title>S03M04 血色清算</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>14</itunes:episode>
+      <itunes:duration>72:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S03M05 历史回响</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M05.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M05.mp3</guid>
+      <pubDate>Sun, 06 Sep 2026 00:0 +0800</pubDate>
+      <description>永乐盛世开启，靖难之役的遗产深远——迁都北京、设立内阁，大明由此进入崭新的时代。</description>
+      <content:encoded>永乐盛世开启，靖难之役的遗产深远——迁都北京、设立内阁，大明由此进入崭新的时代。</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S03M05.mp3" length="71644320" type="audio/mpeg" />
+      <itunes:title>S03M05 历史回响</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>15</itunes:episode>
+      <itunes:duration>74:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S04M01 永乐雄心</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M01.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M01.mp3</guid>
+      <pubDate>Mon, 07 Sep 2026 00:0 +0800</pubDate>
+      <description>朱棣登基，年号永乐——靖难之役的胜利者如何开创一个崭新时代？迁都北京的战略雄心就此展开。</description>
+      <content:encoded>朱棣登基，年号永乐——靖难之役的胜利者如何开创一个崭新时代？迁都北京的战略雄心就此展开。</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M01.mp3" length="71649280" type="audio/mpeg" />
+      <itunes:title>S04M01 永乐雄心</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>16</itunes:episode>
+      <itunes:duration>74:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S04M02 帝国荣耀</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M02.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M02.mp3</guid>
+      <pubDate>Tue, 08 Sep 2026 00:0 +0800</pubDate>
+      <description>五征漠北、七下西洋，永乐朝的大明帝国威震四方——郑和宝船队扬帆远航，帝国荣耀达到顶峰。</description>
+      <content:encoded>五征漠北、七下西洋，永乐朝的大明帝国威震四方——郑和宝船队扬帆远航，帝国荣耀达到顶峰。</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M02.mp3" length="71812000" type="audio/mpeg" />
+      <itunes:title>S04M02 帝国荣耀</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>17</itunes:episode>
+      <itunes:duration>74:48</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S04M03 文治武功</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M03.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M03.mp3</guid>
+      <pubDate>Wed, 09 Sep 2026 00:0 +0800</pubDate>
+      <description>“永乐大典”修成、文治大兴，内阁制度初立、科举取士——朱棣的文治武功，如何重塑帝国制度？</description>
+      <content:encoded>“永乐大典”修成、文治大兴，内阁制度初立、科举取士——朱棣的文治武功，如何重塑帝国制度？</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M03.mp3" length="71839360" type="audio/mpeg" />
+      <itunes:title>S04M03 文治武功</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>18</itunes:episode>
+      <itunes:duration>74:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S04M04 权力阴影</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M04.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M04.mp3</guid>
+      <pubDate>Thu, 10 Sep 2026 00:0 +0800</pubDate>
+      <description>皇权之下暗流涌动：锦衣卫与东厂兴起，宫闱权力斗争隐现——永乐盛世的阴影面逐渐浮出水面。</description>
+      <content:encoded>皇权之下暗流涌动：锦衣卫与东厂兴起，宫闱权力斗争隐现——永乐盛世的阴影面逐渐浮出水面。</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M04.mp3" length="71400640" type="audio/mpeg" />
+      <itunes:title>S04M04 权力阴影</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>19</itunes:episode>
+      <itunes:duration>74:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S04M05 大帝终章</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M05.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M05.mp3</guid>
+      <pubDate>Fri, 11 Sep 2026 00:0 +0800</pubDate>
+      <description>北征途中驾崩，传奇帝王落幕；太子继位，仁宣之治开启——永乐大帝的功过是非，留待历史评说。</description>
+      <content:encoded>北征途中驾崩，传奇帝王落幕；太子继位，仁宣之治开启——永乐大帝的功过是非，留待历史评说。</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S04M05.mp3" length="71524160" type="audio/mpeg" />
+      <itunes:title>S04M05 大帝终章</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>20</itunes:episode>
+      <itunes:duration>74:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S05M01 仁宣余晖</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M01.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M01.mp3</guid>
+      <pubDate>Sat, 12 Sep 2026 00:0 +0800</pubDate>
+      <description>仁宣之治，休养生息——明仁宗与明宣宗两代守成之君，让永乐盛世的余晖温柔地洒向民间。</description>
+      <content:encoded>仁宣之治，休养生息——明仁宗与明宣宗两代守成之君，让永乐盛世的余晖温柔地洒向民间。</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M01.mp3" length="71610240" type="audio/mpeg" />
+      <itunes:title>S05M01 仁宣余晖</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>21</itunes:episode>
+      <itunes:duration>74:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S05M02 宦官乱政</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M02.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M02.mp3</guid>
+      <pubDate>Sun, 13 Sep 2026 00:0 +0800</pubDate>
+      <description>从司礼监到东厂西厂，宦官势力悄然崛起——王振专权、土木之变，大明王朝第一次濒临崩溃。</description>
+      <content:encoded>从司礼监到东厂西厂，宦官势力悄然崛起——王振专权、土木之变，大明王朝第一次濒临崩溃。</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M02.mp3" length="71536320" type="audio/mpeg" />
+      <itunes:title>S05M02 宦官乱政</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>22</itunes:episode>
+      <itunes:duration>74:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S05M03 力挽狂澜</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M03.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M03.mp3</guid>
+      <pubDate>Mon, 14 Sep 2026 00:0 +0800</pubDate>
+      <description>土木堡惨败，皇帝被俘——于谦力挽狂澜，北京保卫战守住社稷，也留下一段悲壮的忠臣绝唱。</description>
+      <content:encoded>土木堡惨败，皇帝被俘——于谦力挽狂澜，北京保卫战守住社稷，也留下一段悲壮的忠臣绝唱。</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M03.mp3" length="73025440" type="audio/mpeg" />
+      <itunes:title>S05M03 力挽狂澜</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>23</itunes:episode>
+      <itunes:duration>76:04</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S05M04 民间百态</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M04.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M04.mp3</guid>
+      <pubDate>Tue, 15 Sep 2026 00:0 +0800</pubDate>
+      <description>市井百态、商路繁荣、科举仕途——大明中期的民间社会，藏着帝国最真实的温度与生机。</description>
+      <content:encoded>市井百态、商路繁荣、科举仕途——大明中期的民间社会，藏着帝国最真实的温度与生机。</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M04.mp3" length="71504000" type="audio/mpeg" />
+      <itunes:title>S05M04 民间百态</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>24</itunes:episode>
+      <itunes:duration>74:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S05M05 帝国回望</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M05.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M05.mp3</guid>
+      <pubDate>Wed, 16 Sep 2026 00:0 +0800</pubDate>
+      <description>回望大明：从洪武开国到弘治中兴，帝国走过怎样的起伏？留给后世的，又是怎样的经验与教训？</description>
+      <content:encoded>回望大明：从洪武开国到弘治中兴，帝国走过怎样的起伏？留给后世的，又是怎样的经验与教训？</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S05M05.mp3" length="72134240" type="audio/mpeg" />
+      <itunes:title>S05M05 帝国回望</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>25</itunes:episode>
+      <itunes:duration>75:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S06M01 开国传说</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M01.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M01.mp3</guid>
+      <pubDate>Thu, 17 Sep 2026 00:0 +0800</pubDate>
+      <description>从“朱重八”到开国皇帝——民间流传的朱元璋传说，藏着怎样的历史真相与集体记忆？</description>
+      <content:encoded>从“朱重八”到开国皇帝——民间流传的朱元璋传说，藏着怎样的历史真相与集体记忆？</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M01.mp3" length="77839840" type="audio/mpeg" />
+      <itunes:title>S06M01 开国传说</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>26</itunes:episode>
+      <itunes:duration>81:04</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S06M02 帝后传奇</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M02.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M02.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 00:0 +0800</pubDate>
+      <description>马皇后与朱元璋的帝后情深，后宫与朝堂的权力平衡——大明开国背后的女性力量与宫廷传奇。</description>
+      <content:encoded>马皇后与朱元璋的帝后情深，后宫与朝堂的权力平衡——大明开国背后的女性力量与宫廷传奇。</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M02.mp3" length="71478560" type="audio/mpeg" />
+      <itunes:title>S06M02 帝后传奇</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>27</itunes:episode>
+      <itunes:duration>74:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S06M03 邻国视角上</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M03.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M03.mp3</guid>
+      <pubDate>Sat, 19 Sep 2026 00:0 +0800</pubDate>
+      <description>从朝鲜、日本与东南亚的视角回望大明——邻国眼中的天朝上国，是怎样的形象与想象？</description>
+      <content:encoded>从朝鲜、日本与东南亚的视角回望大明——邻国眼中的天朝上国，是怎样的形象与想象？</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M03.mp3" length="71987360" type="audio/mpeg" />
+      <itunes:title>S06M03 邻国视角上</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>28</itunes:episode>
+      <itunes:duration>74:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S06M04 邻国视角下</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M04.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M04.mp3</guid>
+      <pubDate>Sun, 20 Sep 2026 00:0 +0800</pubDate>
+      <description>朝贡体系下的国际秩序，郑和下西洋的余波——大明与世界的相遇，留下了哪些被遗忘的故事？</description>
+      <content:encoded>朝贡体系下的国际秩序，郑和下西洋的余波——大明与世界的相遇，留下了哪些被遗忘的故事？</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M04.mp3" length="79595520" type="audio/mpeg" />
+      <itunes:title>S06M04 邻国视角下</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>29</itunes:episode>
+      <itunes:duration>82:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>S06M05 千古之谜</title>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M05.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M05.mp3</guid>
+      <pubDate>Mon, 21 Sep 2026 00:0 +0800</pubDate>
+      <description>建文帝下落、传国玉玺、龙脉传说——大明最著名的千古之谜，后世如何考证与演绎？</description>
+      <content:encoded>建文帝下落、传国玉玺、龙脉传说——大明最著名的千古之谜，后世如何考证与演绎？</content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daming/main/episodes/S06M05.mp3" length="71316480" type="audio/mpeg" />
+      <itunes:title>S06M05 千古之谜</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>30</itunes:episode>
+      <itunes:duration>74:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
